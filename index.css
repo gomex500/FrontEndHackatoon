@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Chakra Petch', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e2e2e2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.img1{
+  width: 80%;
+}
+
+.cont-home{
+  margin-top: 50px;
+}
+
+.contcard{
+  height: 300px;
+  padding-top: 50px;
+}
+
+.foot{
+  background-color: #252525;
+  color: #e2e2e2;
+  padding: 5px;
+}
